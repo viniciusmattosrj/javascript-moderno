@@ -1,11 +1,11 @@
-# Sobre o Projeto
+## Sobre o Projeto
 O Curso em Vídeo e o Google apresentam um curso de JavaScript e ECMAScript para Iniciantes aqui no YouTube! Veja nesse vídeo os detalhes sobre o lançamento, que aconteceu todo no mesmo dia.
 - <a href="https://www.youtube.com/watch?v=BXqUH86F-kA">Javascript Moderno</a> - Gustavo Guanabara
 
 
-## Instalação
-Realizar o git clone do projeto
-```bash
+### Instalação
+Realize o git clone do projeto:
+```
 git clone git@github.com:viniciusmattosrj/javascript-moderno.git
 ```
 
@@ -14,10 +14,10 @@ Para que o git não considere alterações de permissão como modificações a s
 git config core.fileMode false
 ```
 
-## Contribuições
+#### Contribuições
 Caso identifique pontos
 que possam ser aprimorados envie o seu PR. ;-)
 
 
-## License
+#### License
 [MIT](https://choosealicense.com/licenses/mit/)
